@@ -1,30 +1,45 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B0F19,50:111827,100:00E1FF&text=Welcome%20To%20My%20Digital%20World&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Cybersecurity%20•%20Software%20Engineering&descAlignY=58"/>   
+<!-- Header dinâmico com efeito de onda -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,50:0F172A,100:2563EB&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20•%20Cybersecurity%20•%20Software%20Engineering&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E1FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Linux+%2B+Python+Developer;Low-Level+Computing+Explorer;Always+Building+and+Learning"/>
+<!-- Typing Effect para as funções -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=820&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Linux+%2B+Python+Developer;Low-Level+Computing+Explorer"/>
 
-<br><br>
+<br>
 
+<!-- Socials & Visitor Count -->
 <a href="mailto:gustavombranco11@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E1FF"/>
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
-
 <a href="https://github.com/GMello-bc">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E1FF"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 </a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E1FF"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=GMello-bc&style=for-the-badge&color=00E1FF"/>
+<img src="https://komarev.com/ghpvc/?username=GMello-bc&style=for-the-badge&color=2563EB&label=VIEWS"/>
 
 </div>
 
 ---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <!-- Linguagens e Ferramentas Principais -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github,html,css,js,mysql,vscode,vim&theme=dark"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Badges de Especialização/OS -->
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch-0F172A?style=flat-square&logo=arch-linux&logoColor=60A5FA"/>
+  <img src="https://img.shields.io/badge/Kali-0F172A?style=flat-square&logo=kalilinux&logoColor=60A5FA"/>
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F97316"/>
+  <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=wireshark&logoColor=60A5FA"/>
+</div>
 
 #  Contribution Snake
 
@@ -34,74 +49,20 @@
 
 </div>
 
----
+  <br>
 
-#  About Me
-
-<div align="center">
-
-Computer Science student passionate about cybersecurity, Linux environments and software engineering.
-
-Focused on low-level computing, networking, operating systems and back-end development.
-
-Always exploring new technologies, building projects and improving problem-solving skills.
-
-</div>
-
----
-
-#  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,arch,git,github,html,css,js,mysql,vscode,vim&theme=dark"/>
-
-</div>
-
----
-
-#  Operating Systems & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=1793D1"/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-
-<img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=019733"/>
-
-</div>
-
----
-
-#  Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GMello-bc&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-#  Quote
-
-<div align="center">
-
-### “Maybe in another timeline.”
-
+  <!-- Activity Graph -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GMello-bc&theme=tokyo-night&hide_border=true&bg_color=050816&line=2563EB&point=60A5FA&area=true"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B0F19,50:111827,100:00E1FF"/>
+> “Maybe in another timeline.”
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050816,50:0F172A,100:2563EB"/>
 
 </div>

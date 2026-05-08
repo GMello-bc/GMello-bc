@@ -41,13 +41,9 @@
   <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=wireshark&logoColor=60A5FA"/>
 </div>
 
-#  Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/GMello-bc/GMello-bc/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
   <br>
 

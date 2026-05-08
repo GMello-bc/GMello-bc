@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg?v=12"/>
+![Snake](https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

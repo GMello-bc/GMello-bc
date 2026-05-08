@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img width="100%" src="<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg?v=3"/>"/>
+<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg?v=12"/>
 
 </div>
 

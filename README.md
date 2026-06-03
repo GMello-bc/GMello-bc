@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="mailto:gustavombranco11@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com">Enviar e-mail</a>
   <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=FF4040">
 </a>
 

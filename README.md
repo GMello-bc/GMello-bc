@@ -8,13 +8,12 @@
 
 <br><br>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com">Enviar e-mail</a>
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=FF4040">
-</a>
+<p align="center">
 
-<a href="https://github.com/GMello-bc">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FF4040">
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavombranco11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF4040">
+  </a>
+</p>
 
 </div>
 
@@ -30,7 +29,7 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

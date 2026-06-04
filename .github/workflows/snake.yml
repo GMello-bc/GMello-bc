@@ -10,20 +10,19 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: GMello-bc
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=FF2020&color_dots=000000,220000,550000,AA0000,FF2020
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF2020&color_dots=000000,220000,550000,AA0000,FF2020
+            dist/github-contribution-grid-snake.svg?palette=github-dark&snake_color=FF2020&color_palette=000000,220000,550000,AA0000,FF2020
 
-      - name: Deploy Snake
+      - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

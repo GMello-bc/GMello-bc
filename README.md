@@ -29,7 +29,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg" />
+
 
 </div>
 

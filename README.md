@@ -1,44 +1,51 @@
+<!-- header -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:21262D&fontColor=C9D1D9&animation=twinkling"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:161B22,100:21262D&text=𝐖𝐞𝐥𝐜𝐨𝐦𝐞%20𝐓𝐨%20𝐌𝐲%20𝐏𝐫𝐨𝐟𝐢𝐥𝐞&fontSize=50&fontColor=C9D1D9&animation=twinkling&fontAlignY=40"/>
+<!-- name + role -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&height=45&lines=Welcome+To+My+Profile"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+Student+%2F+Developer"/>
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=35&lines=Computer+Science+Student;Developer"/>
-
-<br><br>
-
-<p align="center">
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavombranco11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C9D1D9">
+<!-- contact -->
+<div align="center">
+  <a href="mailto:gustavombranco11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=8B949E"/>
   </a>
-</p>
-
 </div>
 
 <br>
 
+<!-- divider -->
+<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"/>
+
+<br>
+
+<!-- skills -->
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,html,css,js,mysql&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=python,git,html,css,js,mysql&theme=dark"/>
 </div>
 
 <br>
 
+<!-- snake -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg" />
-
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-contribution-grid-snake" width="100%"
+      src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
-<br>
-
+<!-- footer -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0D1117,50:161B22,100:21262D"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0D1117,50:161B22,100:21262D"/>
 </div>

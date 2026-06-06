@@ -35,7 +35,14 @@
 
 <!-- snake -->
 <div align="center">
-  <img width="100%" src="https://gmello-bc.github.io/GMello-bc/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" width="100%"
+      src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 <!-- footer -->

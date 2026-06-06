@@ -2,19 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg?color_snake=8B949E&color_dots=#000000,#1a1a1a,#2d2d2d,#3d3d3d,#4d4d4d
+            output/github-contribution-grid-snake.svg?color_snake=%238B949E&color_dots=%23000000,%231a1a1a,%232d2d2d,%233d3d3d,%234d4d4d
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=FF4040&center=true&vCenter=true&width=520&height=35&lines=Computer+Science+Student;Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=FF4040&center=true&vCenter=true&width=520&height=35&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Python+%2B+Linux+Developer"/>
 
 <br><br>
 
@@ -16,6 +16,16 @@
 </p>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,html,css,js,mysql&theme=dark"/>
+
+</div>
+
+<br>
 
 <div align="center">
 

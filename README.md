@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=FF4040&center=true&vCenter=true&width=520&height=35&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Python+%2B+Linux+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=FF4040&center=true&vCenter=true&width=520&height=35&lines=Computer+Science+Student;Developer"/>
 
 <br><br>
 
@@ -17,29 +17,11 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,html,css,js,mysql,vscode&theme=dark"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg" />
 
 
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GMello-bc&theme=redical&hide_border=true&hide_title=true&bg_color=000000&line=FF2020&point=FF6666&area=true"/>
 
 </div>
 

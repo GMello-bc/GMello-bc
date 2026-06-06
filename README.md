@@ -5,7 +5,7 @@
 
 <!-- name + role -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&height=45&lines=Welcome+To+My+Profile"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&height=45&lines=Gustavo+Mello+Branco"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Computer+Science+Student+%2F+Developer"/>
 </div>
@@ -35,14 +35,7 @@
 
 <!-- snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-contribution-grid-snake" width="100%"
-      src="https://raw.githubusercontent.com/GMello-bc/GMello-bc/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img width="100%" src="https://gmello-bc.github.io/GMello-bc/github-contribution-grid-snake.svg"/>
 </div>
 
 <!-- footer -->
